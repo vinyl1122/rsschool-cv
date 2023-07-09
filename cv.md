@@ -10,3 +10,18 @@ I am convinced that studying front-end development will open up new opportunitie
     + Creative thinking
     + Team player
     + purposefulness
+# Skills
+* HTML
+* CSS
+* Git/GitHub
+# Code Examples
+```
+```
+# Education
+* Belarusian State University of Economics
+    + Management in an industrial enterprise
+* Minsk State Mechanical and Technologial College
+    + Production and catering
+# Languages
+* Russian - Native speaker
+* English - A1 (A2 in process…)
