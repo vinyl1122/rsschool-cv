@@ -1,1 +1,1 @@
-https://vinyl1122.github.io/rsschool-cv/cv
+https://vinyl1122.github.io/rsschool-cv/
