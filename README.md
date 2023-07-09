@@ -1,1 +1,1 @@
-# rsschool-cv
+https://vinyl1122.github.io/rsschool-cv/
